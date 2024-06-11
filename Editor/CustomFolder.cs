@@ -2,7 +2,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace SimpleFolderIcon.Editor
+namespace UnityFolderIcon.Editor
 {
     [InitializeOnLoad]
     public class CustomFolder
