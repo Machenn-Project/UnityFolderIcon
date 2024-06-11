@@ -1,0 +1,25 @@
+{
+  "name": "com.machenn.unityfoldericon",
+  "version": "1.0.0",
+  "displayName": "UnityFolderIcon",
+  "description": "This package use to create folder icons in unity",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.package-manager-ui": "2.1.2",
+    "com.unity.textmeshpro": "2.0.1"
+  },
+  "keywords": [
+    "Unity Folder",
+    "Folder icons",
+    "icons"
+  ],
+  "author": {
+    "name": "AllReal.io",
+    "email": "AllReal@gamil.com",
+    "url": "https://allreal.io/"
+  }
+}
