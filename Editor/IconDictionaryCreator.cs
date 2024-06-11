@@ -7,7 +7,7 @@ namespace SimpleFolderIcon.Editor
 {
     public class IconDictionaryCreator : AssetPostprocessor
     {
-        private const string AssetsPath = "Packages/com.machenn.simplefoldericon/Icons";
+        private const string AssetsPath = "Packages/com.machenn.unityfoldericon/Icons";
         internal static Dictionary<string, Texture> IconDictionary;
 
         private static void OnPostprocessAllAssets(string[] importedAssets, string[] deletedAssets, string[] movedAssets, string[] movedFromAssetPaths)
